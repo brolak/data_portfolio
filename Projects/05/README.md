@@ -1,16 +1,17 @@
 ## Data Summary:
 
-- *Name*
-- *Platform*
-- *Year_of_Release*
-- *Genre*
-- *NA_sales* - North American sales in USD million
-- *EU_sales* - sales in Europe in USD million
-- *JP_sales* - sales in Japan in USD million
-- *Other_sales* - sales in other countries in USD million
-- *Critic_Score* - maximum of 100
-- *User_Score* - maximum of 10
-- *Rating* - ESRB rating
+The `weather` table:
+- *Date and time*
+- *Temperature*
+- *Description*
+
+The `company` table:
+- *company_name* - taxi company name
+- *trips_amount* - the number of rides for each taxi company on November 15-16, 2017
+
+The `dropoff` table:
+- *dropoff_location_name* - Chicago neighborhoods where rides ended
+- *average_trips* - the average number of rides that ended in each neighborhood in November 2017.
 
 ## Goal:
 
@@ -22,4 +23,4 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 
 ## Libraries used:
 
-pandas, numpy, scipy, matlibplot
+beautiful soup, pandas, numpy, scipy, matlibplot
