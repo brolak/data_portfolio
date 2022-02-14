@@ -20,4 +20,4 @@ Your report will be considered when building a **credit scoring** of a potential
 
 ## Libraries used:
 
-pandas
+pandas, nltk
