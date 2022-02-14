@@ -5,6 +5,7 @@ These projects were completed for Practicum by Yandex's Data Scientist professio
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Loan Default Analysis](Projects/01) | Exploring customer data points to determine their effects on the chance of a customer defaulting on a loan. | *pandas, nltk* |
-| [Real Estate Analysis](Projects/02) | Determining the market value of real estate in Saint Petersburg, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas, matlibplot* |
+| [Videogame Market Analysis](Projects/04) | Identifying patterns that determine whether a game succeeds in various markets for advertising planning. | *pandas, numpy, scipy, matlibplot* |
 | [Telecom Customer Analysis](Projects/03) | Analyzing clients' behavior and determining which prepaid plan brings in more revenue. | *pandas, numpy, scipy, matlibplot* |
+| [Real Estate Analysis](Projects/02) | Determining the market value of real estate in Saint Petersburg, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas, matlibplot* |
+| [Loan Default Analysis](Projects/01) | Exploring customer data points to determine their effects on the chance of a customer defaulting on a loan. | *pandas, nltk* |
