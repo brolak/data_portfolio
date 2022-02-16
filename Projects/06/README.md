@@ -16,4 +16,4 @@ Develop a model with the highest possible accuracy. In this project, the thresho
 
 ## Libraries used:
 
-sklearn, pandas, matlibplot
+sklearn, pandas
