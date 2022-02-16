@@ -1,9 +1,9 @@
 ## Data Summary:
 
 The `weather` table:
-- *Date and time*
-- *Temperature*
-- *Description*
+- *start_ts* - pickup date and time
+- *weather_conditions* - weather conditions at the moment the ride started
+- *duration_seconds* - ride duration in seconds
 
 The `company` table:
 - *company_name* - taxi company name
@@ -15,12 +15,10 @@ The `dropoff` table:
 
 ## Goal:
 
-You work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. You need to identify patterns that determine whether a game succeeds or not. This will allow you to spot potential big winners and plan advertising campaigns.
+You're working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. Your task is to find patterns in the available information. You want to understand passenger preferences and the impact of external factors on rides.
 
-In front of you is data going back to 2016. Let’s imagine that it’s December 2016 and you’re planning a campaign for 2017.
-
-The dataset contains the abbreviation ESRB. The Entertainment Software Rating Board evaluates a game's content and assigns an age rating such as Teen or Mature.
+Working with a database, you'll analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 
 ## Libraries used:
 
-beautiful soup, pandas, numpy, scipy, matlibplot
+beautiful soup & SQL were used in data wrangling, pandas, numpy, scipy, matlibplot
