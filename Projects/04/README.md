@@ -23,3 +23,5 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 ## Libraries used:
 
 pandas, numpy, scipy, matlibplot
+
+[:snake: Jupyter Notebook](./Integrated_Project_1.ipynb)

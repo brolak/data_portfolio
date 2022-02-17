@@ -22,3 +22,5 @@ Working with a database, you'll analyze data from competitors and test a hypothe
 ## Libraries used:
 
 beautiful soup & SQL were used in data wrangling, pandas, numpy, scipy, matlibplot
+
+[:snake: Jupyter Notebook](./Data_Collection_&_Storage.ipynb)

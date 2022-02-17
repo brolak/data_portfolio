@@ -30,3 +30,5 @@ There are two different types of data available for every apartment for sale. Th
 ## Libraries used:
 
 pandas
+
+[:snake: Jupyter Notebook](./Exploratory_Data_Analysis.ipynb)

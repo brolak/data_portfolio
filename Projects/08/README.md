@@ -27,3 +27,5 @@ You have data on oil samples from three regions. Parameters of each oil well in 
 ## Libraries used:
 
 sklearn, pandas, numpy, matlibplot
+
+[:snake: Jupyter Notebook](./Machine_Learning_in_Business.ipynb)

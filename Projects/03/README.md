@@ -46,3 +46,5 @@ You are going to carry out a preliminary analysis of the plans based on a relati
 ## Libraries used:
 
 pandas, numpy, scipy, matlibplot
+
+[:snake: Jupyter Notebook](./Statistical_Data_Analysis.ipynb)

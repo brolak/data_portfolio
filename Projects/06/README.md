@@ -17,3 +17,5 @@ Develop a model with the highest possible accuracy. In this project, the thresho
 ## Libraries used:
 
 sklearn, pandas
+
+[:snake: Jupyter Notebook](./Intro_to_Machine_Learning.ipynb)

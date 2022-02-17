@@ -30,4 +30,6 @@ Additionally, measure the AUC-ROC metric and compare it with the F1.
 
 ## Libraries used:
 
- imblearn, sklearn, pandas, matlibplot
+ imblearn, sklearn, pandas, matlibplot, seaborn
+
+ [:snake: Jupyter Notebook](./Supervised_Learning.ipynb)

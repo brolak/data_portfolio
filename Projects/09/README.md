@@ -53,3 +53,5 @@ You need to:
 ## Libraries used:
 
 sklearn, pandas, numpy, matlibplot
+
+[:snake: Jupyter Notebook](./Integrated_Project_2.ipynb)

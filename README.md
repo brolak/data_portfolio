@@ -6,10 +6,10 @@
 
 | Name | Description | Libraries used | Link | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| Insurance Customer Analysis | *Solving several customer data tasks with maching learning and linear algebra solutions.* | `seaborn` `sklearn` `pandas` `numpy` |[Github](Projects/10)|
+| Insurance Customer Analysis | *Solving several customer data tasks with maching learning and linear algebra solutions.* | `sklearn` `pandas` `numpy` `seaborn` |[Github](Projects/10)|
 | Mining Process Analysis | *Developing maching learning model to optimize mining production and eliminate unprofitable parameters.* | `sklearn` `pandas` `matlibplot` |[Github](Projects/09)|
 | Oil Business Analysis | *Developing maching learning model to pick the region with the highest profit margin.* | `sklearn` `pandas` `matlibplot` |[Github](Projects/08)|
-| Bank Churn Analysis | *Developing machine learning model to predict churn in order to save existing customers.* | `imblearn` `sklearn` `pandas` `matlibplot` |[Github](Projects/07)|
+| Bank Churn Analysis | *Developing machine learning model to predict churn in order to save existing customers.* | `imblearn` `sklearn` `pandas` `matlibplot` `seaborn` |[Github](Projects/07)|
 | Mobile Subscriber Analysis | *Developing machine learning model to analyze subscribers' behavior and recommend plan purchase.* | `sklearn` `pandas` |[Github](Projects/06)|
 | Taxi Trip Analysis | *Exploring and hypothesising effects of weather conditions on taxi trips.* | `beautiful soup` `SQL` `pandas` `numpy` `scipy` `matlibplot` |[Github](Projects/05)|
 | Videogame Market Analysis | *Identifying patterns that determine whether a game succeeds in various markets.* | `pandas` `numpy` `scipy` `matlibplot` |[Github](Projects/04)|
