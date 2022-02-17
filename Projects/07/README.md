@@ -30,4 +30,4 @@ Additionally, measure the AUC-ROC metric and compare it with the F1.
 
 ## Libraries used:
 
-sklearn, pandas
+ imblearn, sklearn, pandas, matlibplot
