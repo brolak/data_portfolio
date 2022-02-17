@@ -5,6 +5,7 @@
 
 | Name | Description | Libraries used | Link | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| Bank Churn Analysis | Developing machine learning model to predict churn in order to save existing customers. | *sklearn, imblearn, pandas, matlibplot* |[Github](Projects/07)|
 | Mobile Subscriber Analysis | Developing machine learning model to analyze subscribers' behavior and recommend plan purchase. | *sklearn, pandas* |[Github](Projects/06)|
 | Taxi Trip Analysis | Hypothesising and exploring effects of weather conditions on taxi trips | *beautiful soup, SQL, pandas, numpy, scipy, matlibplot* |[Github](Projects/05)|
 | Videogame Market Analysis | Identifying patterns that determine whether a game succeeds in various markets. | *pandas, numpy, scipy, matlibplot* |[Github](Projects/04)|
