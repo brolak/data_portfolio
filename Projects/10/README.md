@@ -21,4 +21,4 @@ It's necessary to develop a data transformation algorithm that would make it har
 
 seaborn, sklearn, pandas, numpy
 
-[:snake: Python Notebook]("./Linear Algebra.ipynb")
+[:snake: Python Notebook](./Linear_Algebra.ipynb)
