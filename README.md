@@ -6,6 +6,7 @@
 
 | Name | Description | Libraries used | Link | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| Sales App Analysis | *Developing machine learning model to predict car value for app using historical data* | `CatBoost` `LightGBM` `XGBoost` `sklearn` `pandas` |[Github](Projects/11)|
 | Insurance Customer Analysis | *Solving several customer data tasks with maching learning and linear algebra solutions.* | `sklearn` `pandas` `numpy` `seaborn` |[Github](Projects/10)|
 | Mining Process Analysis | *Developing maching learning model to optimize mining production and eliminate unprofitable parameters.* | `sklearn` `pandas` `matlibplot` |[Github](Projects/09)|
 | Oil Business Analysis | *Developing maching learning model to pick the region with the highest profit margin.* | `sklearn` `pandas` `matlibplot` |[Github](Projects/08)|
