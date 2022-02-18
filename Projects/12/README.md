@@ -10,6 +10,6 @@ The RMSE metric on the test set should not be more than 48.
 
 ## Libraries used:
 
-CatBoost, lightGBM, XGBoost, sklearn, pandas, matplotlib
+CatBoost, lightGBM, XGBoost, sklearn, pandas, numpy, matplotlib
 
 [:snake: Jupyter Notebook](./Time_Series.ipynb)
