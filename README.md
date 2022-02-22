@@ -6,7 +6,9 @@
 
 | Name | Description | Libraries used | Link | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| __Review Text Analysis__ | *Developing a system for filtering and categorizing movie reviews.* | `pytorch` `lightGBM` `spaCy` `sklearn` `nltk` `pandas` `matplotlib` `seaborn` |[Github](Projects/12)|
+| __Telecom Churn Analysis__ | *Developing machine learning model to forecast churn of clients* | `CatBoost` `sklearn` `pandas` `numpy` |[Github](Projects/15)|
+| __Age Verification Analysis__ | *Develop computer vision model for age verification process* | `tensorflow` `keras` `pandas` `matplotlib` `numpy` |[Github](Projects/14)|
+| __Review Text Analysis__ | *Developing a system for filtering and categorizing movie reviews.* | `pytorch` `lightGBM` `spaCy` `sklearn` `nltk` `pandas` `matplotlib` `seaborn` |[Github](Projects/13)|
 | __Taxi Time Series Analysis__ | *Using time series analysis to predict the amount of taxi orders for the next hour* | `CatBoost` `lightGBM` `XGBoost` `sklearn` `pandas` `numpy` `matplotlib` |[Github](Projects/12)|
 | __Sales App Analysis__ | *Developing machine learning model to predict car value for app using historical data* | `CatBoost` `LightGBM` `XGBoost` `sklearn` `pandas` |[Github](Projects/11)|
 | __Insurance Customer Analysis__ | *Solving several customer data tasks with maching learning and linear algebra solutions.* | `sklearn` `pandas` `numpy` `seaborn` |[Github](Projects/10)|
