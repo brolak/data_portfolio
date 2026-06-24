@@ -4,6 +4,7 @@
 
 | Name | Description | Libraries used | Link | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| __Board Game Night Network Analysis__ | *Modelling player compatibility as a social network to compare algorithmic vs. random group formation for a board game event.* | `networkx` `pandas` `numpy` `matplotlib` `beautifulsoup4` |[Github](Projects/18)|
 | __Global CO2 Emissions Analysis__ | *Exploring 270 years of global fossil fuel emissions data by country, with an interactive Shiny for Python dashboard deployed to the web.* | `pandas` `matplotlib` `seaborn` `shiny` |[Github](Projects/17)|
 | __E-Commerce Conversion Analysis__ | *Analyzing customer transaction data to identify abandonment patterns and simulate revenue impact of targeted retention solutions.* | `pandas` `numpy` `matplotlib` `seaborn` |[Github](Projects/16)|
 | [__Kidney Stone Prediction based on Urine Analysis__](https://www.kaggle.com/competitions/playground-series-s3e12) | *Binary Classification with a Tabular Kidney Stone Prediction Dataset* | `CatBoost` `sklearn` `pandas` `numpy` `optuna` |[Kaggle](https://www.kaggle.com/code/brolak/s03e12-eda-baseline-ensemble)|
