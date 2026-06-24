@@ -1,9 +1,10 @@
-## Data Science Portfolio
+## Data Portfolio
 
-### Various data analysis and machine learning model development projects completed for Kaggle competitions and Practicum by Yandex's Data Scientist professional training program.
+### Various data analysis and machine learning model development projects completed for Kaggle competitions, Practicum by Yandex's Data Scientist professional training program, and a BA in Digital Innovation.
 
 | Name | Description | Libraries used | Link | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| __Global CO2 Emissions Analysis__ | *Exploring 270 years of global fossil fuel emissions data by country, with an interactive Shiny for Python dashboard deployed to the web.* | `pandas` `matplotlib` `seaborn` `shiny` |[Github](Projects/17)|
 | __E-Commerce Conversion Analysis__ | *Analyzing customer transaction data to identify abandonment patterns and simulate revenue impact of targeted retention solutions.* | `pandas` `numpy` `matplotlib` `seaborn` |[Github](Projects/16)|
 | [__Kidney Stone Prediction based on Urine Analysis__](https://www.kaggle.com/competitions/playground-series-s3e12) | *Binary Classification with a Tabular Kidney Stone Prediction Dataset* | `CatBoost` `sklearn` `pandas` `numpy` `optuna` |[Kaggle](https://www.kaggle.com/code/brolak/s03e12-eda-baseline-ensemble)|
 | [__Media Campaign Cost Prediction__](https://www.kaggle.com/competitions/playground-series-s3e11) | *Regression with a Tabular Media Campaign Cost Dataset* | `CatBoost` `sklearn` `pandas` `numpy` `optuna` |[Kaggle](https://www.kaggle.com/code/brolak/e11-eda-catboost-hypertuning)|
