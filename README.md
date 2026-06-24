@@ -4,6 +4,7 @@
 
 | Name | Description | Libraries used | Link | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| __Salary Prediction Error Analysis__ | *Building a linear regression model for employee salary prediction, then diagnosing where and why it makes systematic mistakes.* | `pandas` `numpy` `matplotlib` `seaborn` `sklearn` `statsmodels` |[Github](Projects/21)|
 | __Call Centre Performance Analysis__ | *Investigating a drop in customer satisfaction and resolution rates across 60,000 support calls to identify a root cause.* | `pandas` `matplotlib` `seaborn` `sklearn` |[Github](Projects/20)|
 | __Employee Attrition Analysis__ | *Exploring HR data across 35 features to identify key drivers of employee attrition, with a focus on the Sales department.* | `pandas` `numpy` `matplotlib` `seaborn` |[Github](Projects/19)|
 | __Board Game Night Network Analysis__ | *Modelling player compatibility as a social network to compare algorithmic vs. random group formation for a board game event.* | `networkx` `pandas` `numpy` `matplotlib` `beautifulsoup4` |[Github](Projects/18)|
