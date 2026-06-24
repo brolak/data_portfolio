@@ -26,3 +26,4 @@ Build a linear regression model to predict employee salary, then perform regress
 pandas, numpy, matplotlib, seaborn, sklearn, statsmodels
 
 [:snake: Jupyter Notebook](./use-case-1-analysis.ipynb)
+[:page_facing_up: Presentation](./presentation.pdf)

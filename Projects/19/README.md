@@ -27,3 +27,4 @@ Identify the key demographic, compensation, and satisfaction drivers of employee
 pandas, numpy, matplotlib, seaborn
 
 [:snake: Jupyter Notebook](./Usecase%201%20Analysis.ipynb)
+[:page_facing_up: Presentation](./presentation.pdf)

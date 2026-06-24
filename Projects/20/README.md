@@ -32,3 +32,4 @@ Investigate a decline in customer satisfaction and resolution rates observed in 
 pandas, matplotlib, seaborn, sklearn
 
 [:snake: Jupyter Notebook](./use-case-2-analysis.ipynb)
+[:page_facing_up: Presentation](./presentation.pdf)
